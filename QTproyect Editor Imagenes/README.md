@@ -1,11 +1,20 @@
 EDITOR DE IMAGENES (QT-OPENCV)
 
 #RESUTADOS
-- escan de un vaso
+- Open image
 ![Screenshot](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/QTproyect%20Editor%20Imagenes/OpenImage.png)
 
-- nube de puntos del vaso
-![Screenshot](https://github.com/MelvinSalcedo/Computacion_Grafica/blob/master/ProyectoGraficaScanner3D/vaso00.png)
+- Brightnnes
+![Screenshot](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/QTproyect%20Editor%20Imagenes/brilloMaximo.png)
 
-- triangulacion
-![Screenshot](https://github.com/MelvinSalcedo/Computacion_Grafica/blob/master/ProyectoGraficaScanner3D/vaso_t01.png)
+- Dot and divide
+![Screenshot](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/QTproyect%20Editor%20Imagenes/dotAndDivide.png)
+
+- Equalize
+![Screenshot](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/QTproyect%20Editor%20Imagenes/ecualizador.png)
+
+- Ganmma
+![Screenshot](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/QTproyect%20Editor%20Imagenes/gamma.png)
+
+- Griss
+![Screenshot](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/QTproyect%20Editor%20Imagenes/gris.png)
