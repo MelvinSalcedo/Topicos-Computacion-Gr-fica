@@ -9,7 +9,7 @@ EDITOR DE IMAGENES (QT-OPENCV)
 
 ![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/QTproyect%20Editor%20Imagenes/brilloMaximo.png)
 
-- Dot and divide 
+- multiplication and division
 
 ![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/QTproyect%20Editor%20Imagenes/dotAndDivide.png)
 
@@ -17,7 +17,7 @@ EDITOR DE IMAGENES (QT-OPENCV)
 
 ![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/QTproyect%20Editor%20Imagenes/ecualizador.png)
 
-- Ganmma
+- Gamma
 
 ![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/QTproyect%20Editor%20Imagenes/gamma.png)
 
