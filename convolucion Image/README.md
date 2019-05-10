@@ -1,13 +1,7 @@
-ABRIR Y EDITAR IMAGEN BMP
+CONVOLUCION
 
 #RESUTADOS
 
-- BMP ORIGINAL
+- imgORIGINAL
 
-![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/Open%20image%20BMP/Shapes_24.bmp)
-
-
-- BMP EDITADA
-
-![Screenshot](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/Open%20image%20BMP/editada.bmp)
-
+![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/convolucion%20Image/a.png)
