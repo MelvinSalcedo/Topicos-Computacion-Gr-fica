@@ -1,5 +1,7 @@
 convolución de imágenes aplicando ciertos filtros
+
 como compilar "nvcc convuluciion.cu -lX11"
+
 #RESUTADOS
 
 - IMAGEN ORIGINAL
