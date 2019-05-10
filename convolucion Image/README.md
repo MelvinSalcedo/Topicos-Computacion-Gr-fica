@@ -10,20 +10,19 @@ como compilar "nvcc convuluciion.cu -lX11"
 Sobel derivada en X
 
 ![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/convolucion%20Image/sobelDx.png)
-![Screenshot \ n] (https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/convolucion%20Image/sobelDx.png)
 
 Sobel derivada en Y
 
-![Screenshot \ n] (https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/convolucion%20Image/sobelDy.png)
+![Screenshot \ n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/convolucion%20Image/sobelDy.png)
 
 Scharr Derivada en X
 
-![Screenshot \ n] (https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/convolucion%20Image/scharDx.png)
+![Screenshot \ n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/convolucion%20Image/scharDx.png)
 
 Prewitt derivada en X
 
-![Screenshot \ n] (https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/convolucion%20Image/prewitt.png)
+![Screenshot \ n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/convolucion%20Image/prewitt.png)
 
 Laplace
 
-![Screenshot \ n] (https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/convolucion%20Image/laplace.png)
+![Screenshot \ n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/convolucion%20Image/laplace.png)
