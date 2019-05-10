@@ -1,5 +1,7 @@
 ABRIR Y EDITAR IMAGEN BMP
 
+compilar "g++ readB.cpp"
+
 #RESUTADOS
 
 - BMP ORIGINAL
