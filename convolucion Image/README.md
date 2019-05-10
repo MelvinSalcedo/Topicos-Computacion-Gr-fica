@@ -1,13 +1,15 @@
-convolución
-
+convolución de imágenes aplicando ciertos filtros
+como compilar "nvcc convuluciion.cu -lX11"
 #RESUTADOS
 
 - IMAGEN ORIGINAL
+
 ![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/convolucion%20Image/original.png)
 
 
 Sobel derivada en X
 
+![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/convolucion%20Image/sobelDx.png)
 ![Screenshot \ n] (https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/convolucion%20Image/sobelDx.png)
 
 Sobel derivada en Y
