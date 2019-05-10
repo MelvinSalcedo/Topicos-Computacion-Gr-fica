@@ -1,4 +1,4 @@
-ABRIR Y EDITAR IMAGEN BMP
+ABRIR Y EDITAR IMAGEN BMP.
 
 compilar "g++ readB.cpp"
 
