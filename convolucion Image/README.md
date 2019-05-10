@@ -1,6 +1,8 @@
 convolución
 
 #RESUTADOS
+![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/Open%20image%20BMP/Shapes_24.bmp)
+
 
 - IMAGEN ORIGINAL
 ![Screenshot \ n] (https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/convolucion%20Image/original.png)
