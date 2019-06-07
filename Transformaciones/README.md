@@ -1,4 +1,4 @@
-EDITOR DE IMAGENES (QT-OPENCV)
+Diapositivas 3 y 4
 
 compilar = instalar qt , instalar opencv e modificar el archivo "pro" para que pueda aceptar opencv. todo es en ubuntu.
 
