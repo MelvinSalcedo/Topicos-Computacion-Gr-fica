@@ -4,27 +4,30 @@ compilar = instalar qt , instalar opencv e modificar el archivo "pro" para que p
 
 #RESUTADOS
 
-- Open image
-![Screenshot](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/QTproyect%20Editor%20Imagenes/OpenImage.png)
+- Transformacion bilineal
+![Screenshot](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/Transformaciones/Resultados/TransformacionBilineal.png)
 
 
-- Brightness 
+- Transformacion de perspectiva
 
-![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/QTproyect%20Editor%20Imagenes/brilloMaximo.png)
+![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/Transformaciones/Resultados/PerspectivaOriginalResultado2.png)
 
-- multiplication and division
-
-![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/QTproyect%20Editor%20Imagenes/dotAndDivide.png)
-
-- Equalize
-
-![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/QTproyect%20Editor%20Imagenes/ecualizador.png)
-
-- Gamma
-
-![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/QTproyect%20Editor%20Imagenes/gamma.png)
+![Screenshot](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/Transformaciones/Resultados/PerspectivaOriginalResultado1.png)
 
 
-- Griss
+- Interpolacion de vecinos cercanos
 
-![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/QTproyect%20Editor%20Imagenes/gris.png)
+![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/Transformaciones/Resultados/InterpolacionVecinos.png)
+
+- Interpolacion Bilineal
+
+![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/Transformaciones/Resultados/Interpolacionbilineal.png)
+
+- Rotacion de imagen
+
+![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/Transformaciones/Resultados/Rotar.png)
+
+
+- Escalado de imagen
+
+![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/Transformaciones/Resultados/Escalar.png)
