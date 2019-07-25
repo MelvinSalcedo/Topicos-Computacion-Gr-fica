@@ -1,15 +1,18 @@
-ABRIR Y EDITAR IMAGEN BMP.
+TEMPLATE MATCHING
 
 compilar "g++ readB.cpp"
 
 #RESUTADOS
 
-- BMP ORIGINAL
+- TEMPLATE
 
-![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/Open%20image%20BMP/Shapes_24.bmp)
+![Screenshot \n](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/templateMatching/Input/a1.jpg)
 
 
-- BMP EDITADA
+- BMP IMAGEN
 
-![Screenshot](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/Open%20image%20BMP/editada.bmp)
+![Screenshot](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/templateMatching/Input/boards.jpg)
 
+-SALIDA
+
+![Screenshot](https://github.com/MelvinSalcedo/Topicos-Computacion-Gr-fica/blob/master/templateMatching/Output/TM.jpg)
