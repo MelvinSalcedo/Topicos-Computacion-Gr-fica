@@ -1,6 +1,6 @@
 TEMPLATE MATCHING
 
-compilar "g++ readB.cpp"
+
 
 #RESUTADOS
 
